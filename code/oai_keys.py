@@ -1,0 +1,5 @@
+API_KEY = "YOUR_API_KEY_HERE"
+
+BASE_URL = "YOUR_BASE_URL_HERE"
+
+MODEL_NAME = 'gpt-3.5-turbo'
