@@ -14,7 +14,7 @@ from torch.utils.data import DataLoader
 from openai import OpenAI
 
 from tool import llava13b_tool
-from code4supplement.MemeAgent.load_dataset import *
+from load_dataset import *
 
 from sklearn.metrics import accuracy_score, f1_score
 
