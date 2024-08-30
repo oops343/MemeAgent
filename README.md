@@ -4,7 +4,7 @@
 
 ### 📚 Overview
 
-This repository hosts the codebase for our research paper titled, "Ask, Acquire, Understand: A Multimodal Agent-based Framework for Social Abuse Detection in Memes."
+This repository hosts the codebase for our research paper titled, ***"Ask, Acquire, Understand: A Multimodal Agent-based Framework for Social Abuse Detection in Memes"***.
 
 ![Architecture of our framework](images/main.png)
 
