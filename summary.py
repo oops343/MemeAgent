@@ -6,7 +6,7 @@ import yaml
 from tqdm import tqdm
 from tenacity import retry, wait_random_exponential, stop_after_attempt
 
-from MemeAgent.prompt_dict import *
+from prompt_dict import *
 
 
 @retry(wait=wait_random_exponential(min=1, max=60), stop=stop_after_attempt(6))
