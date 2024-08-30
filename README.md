@@ -6,7 +6,7 @@
 
 This repository hosts the codebase for our research paper titled, ***"Ask, Acquire, Understand: A Multimodal Agent-based Framework for Social Abuse Detection in Memes"***.
 
-![Architecture of our framework](images/main.jpg)
+
 
 The meme text and initial caption are used to initiate the multi-agent chat. Through agent discussion (**Ask**), informative information is acquired from the vision expert (**Acquire**). The QA histories and basic meme information assist the summary assistant in understanding the meme (**Understand**) before generating the final result.
 
